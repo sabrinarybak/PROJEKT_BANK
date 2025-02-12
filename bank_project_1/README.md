@@ -1,6 +1,6 @@
 📌 Beskrivning
 
-Det här projektet är en enkel Python-applikation som hanterar banktransaktioner och dokument. Applikationen är designad för att demonstrera grundläggande programmeringsprinciper, hantering av data och tester med hjälp av pytest.
+Det här projektet är en enkel Python-applikation som hanterar banktransaktioner och data. Applikationen är designad för att demonstrera grundläggande programmeringsprinciper, hantering av data och tester med hjälp av pytest.
 
 📂 Projektstruktur
 
