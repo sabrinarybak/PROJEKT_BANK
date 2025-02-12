@@ -23,7 +23,7 @@ Följ dessa steg för att installera och köra projektet:
 
 1️⃣ Klona projektet
 
-git clone https://github.com/ditt-anvandarnamn/bank_project.git
+git clone https://github.com/ditt-anvandarnamn/PROJEKT_BANK
 cd bank_project
 
 2️⃣ Skapa och aktivera en virtuell miljö
