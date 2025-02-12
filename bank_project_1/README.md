@@ -47,7 +47,6 @@ pip install -r requirements.txt
 🚀 Användning
 
 Starta programmet genom att köra:
-
 python main.py
 
 När programmet körs visas en meny:
@@ -93,9 +92,9 @@ E (Automatisering): Filhantering och API-integrering automatiserar bankfunktione
 
 📝 Att göra / Möjliga förbättringar
 
-- Hasha lösenord med salt och ha fler lösenord i programmet för att kunna t.ex. göra insättningar och uttag.
+- Hasha lösenord med salt och ha fler lösenord i programmet för att kunna t.ex. göra insättningar och uttag. 
 - Spara data i en riktig och säkrare databas med användning av SQLLite
-- Webbapplikation med Django eller Flask.
+- Webbapplikation med Django eller Flask med ett säkert inloggsystem.
 
 🤝 Bidrag
 
