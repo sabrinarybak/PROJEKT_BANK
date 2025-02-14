@@ -1,0 +1,18 @@
+# Ignorera virtuella miljön
+venv/
+
+# Ignorera cache-filer
+__pycache__/
+*.pyc
+
+# Ignorera IDE-specifika filer
+.vscode/
+.idea/
+
+# Ignorera OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# Ignorera test- och loggfiler
+*.log
+*.tmp
